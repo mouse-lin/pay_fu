@@ -9,6 +9,9 @@ development:
     key: ""
     account: ""
     email: ""
+  tenpay:
+    key: ""
+    spid: ""
 
 production:
   paypal:
@@ -21,3 +24,7 @@ production:
     key: ""
     account: ""
     email: ""
+  tenpay:
+    key: ""
+    spid: ""
+
